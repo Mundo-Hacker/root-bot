@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "categoria": "autenticacion",
+    "dificultad": "facil",
+    "pregunta": "¿Cuál es una buena práctica para proteger una cuenta?",
+    "opciones": [
+      "Usar la misma contraseña en todos los servicios",
+      "Activar la autenticación multifactor (MFA)",
+      "Compartir la contraseña con un compañero",
+      "Desactivar las actualizaciones de seguridad"
+    ],
+    "correcta": 1,
+    "explicacion": "MFA agrega una capa adicional de protección incluso si la contraseña queda expuesta."
+  },
+  {
+    "id": 2,
+    "categoria": "phishing",
+    "dificultad": "facil",
+    "pregunta": "¿Qué describe mejor un ataque de phishing?",
+    "opciones": [
+      "Una técnica de engaño para obtener información o provocar una acción",
+      "Un método para comprimir archivos",
+      "Un sistema de copias de seguridad",
+      "Un protocolo de cifrado"
+    ],
+    "correcta": 0,
+    "explicacion": "El phishing utiliza ingeniería social para engañar a las personas mediante mensajes, sitios o enlaces fraudulentos."
+  },
+  {
+    "id": 3,
+    "categoria": "contraseñas",
+    "dificultad": "facil",
+    "pregunta": "¿Cuál de estas contraseñas sería, en general, una mejor elección?",
+    "opciones": [
+      "12345678",
+      "password2026",
+      "Una frase larga y única",
+      "El nombre y fecha de nacimiento"
+    ],
+    "correcta": 2,
+    "explicacion": "La longitud y unicidad son factores importantes. Un gestor de contraseñas ayuda a generar y almacenar credenciales únicas."
+  },
+  {
+    "id": 4,
+    "categoria": "malware",
+    "dificultad": "facil",
+    "pregunta": "¿Qué es el malware?",
+    "opciones": [
+      "Software diseñado para realizar acciones maliciosas o no autorizadas",
+      "Un sistema operativo",
+      "Un tipo de monitor",
+      "Un protocolo de correo electrónico"
+    ],
+    "correcta": 0,
+    "explicacion": "Malware es un término general para software malicioso, como troyanos, ransomware, spyware y otros."
+  },
+  {
+    "id": 5,
+    "categoria": "actualizaciones",
+    "dificultad": "facil",
+    "pregunta": "¿Por qué es importante instalar actualizaciones de seguridad?",
+    "opciones": [
+      "Porque siempre aumentan la velocidad del equipo",
+      "Porque pueden corregir vulnerabilidades conocidas",
+      "Porque eliminan todos los virus existentes",
+      "Porque hacen innecesario un antivirus"
+    ],
+    "correcta": 1,
+    "explicacion": "Las actualizaciones suelen incluir correcciones para vulnerabilidades que podrían ser aprovechadas por atacantes."
+  },
+  {
+    "id": 6,
+    "categoria": "redes",
+    "dificultad": "media",
+    "pregunta": "¿Qué función cumple principalmente HTTPS?",
+    "opciones": [
+      "Cifra y protege la comunicación HTTP mediante TLS",
+      "Impide cualquier tipo de malware",
+      "Oculta siempre la dirección IP del usuario",
+      "Garantiza que un sitio web sea legítimo"
+    ],
+    "correcta": 0,
+    "explicacion": "HTTPS protege la comunicación entre cliente y servidor, pero por sí solo no garantiza que el sitio sea legítimo ni seguro en todos los sentidos."
+  },
+  {
+    "id": 7,
+    "categoria": "privacidad",
+    "dificultad": "media",
+    "pregunta": "¿Qué principio ayuda a reducir la exposición de información personal?",
+    "opciones": [
+      "Compartir todos los datos públicamente",
+      "Aplicar minimización de datos",
+      "Usar la misma cuenta para todo",
+      "Desactivar todas las medidas de privacidad"
+    ],
+    "correcta": 1,
+    "explicacion": "La minimización de datos consiste en recopilar, procesar o compartir solo la información necesaria para una finalidad determinada."
+  },
+  {
+    "id": 8,
+    "categoria": "backup",
+    "dificultad": "facil",
+    "pregunta": "¿Qué estrategia ayuda a recuperarse de un ransomware?",
+    "opciones": [
+      "No realizar copias de seguridad",
+      "Mantener copias de seguridad aisladas y verificadas",
+      "Guardar la única copia en el mismo equipo",
+      "Desactivar las actualizaciones"
+    ],
+    "correcta": 1,
+    "explicacion": "Las copias de seguridad aisladas o protegidas contra modificación ayudan a recuperar información sin depender del sistema comprometido."
+  },
+  {
+    "id": 9,
+    "categoria": "ingenieria-social",
+    "dificultad": "media",
+    "pregunta": "¿Qué busca principalmente la ingeniería social?",
+    "opciones": [
+      "Manipular a personas para obtener información o realizar acciones",
+      "Mejorar la velocidad de una red",
+      "Comprimir bases de datos",
+      "Actualizar automáticamente un sistema"
+    ],
+    "correcta": 0,
+    "explicacion": "La ingeniería social explota factores humanos como confianza, urgencia, autoridad o curiosidad."
+  },
+  {
+    "id": 10,
+    "categoria": "wifi",
+    "dificultad": "media",
+    "pregunta": "¿Qué medida mejora la seguridad de una red Wi-Fi doméstica?",
+    "opciones": [
+      "Mantener la contraseña predeterminada del router",
+      "Usar cifrado moderno y una contraseña robusta",
+      "Publicar la clave de acceso",
+      "Desactivar todas las actualizaciones del router"
+    ],
+    "correcta": 1,
+    "explicacion": "Usar un estándar de seguridad moderno, una clave fuerte y firmware actualizado reduce riesgos en redes inalámbricas."
+  },
+  {
+    "id": 11,
+    "categoria": "criptografia",
+    "dificultad": "media",
+    "pregunta": "¿Qué propiedad busca proporcionar el cifrado?",
+    "opciones": [
+      "Confidencialidad de la información",
+      "Mayor resolución de pantalla",
+      "Más velocidad de CPU",
+      "Eliminación automática de vulnerabilidades"
+    ],
+    "correcta": 0,
+    "explicacion": "El cifrado transforma la información para que no pueda ser entendida sin la clave o mecanismo apropiado."
+  },
+  {
+    "id": 12,
+    "categoria": "seguridad-web",
+    "dificultad": "dificil",
+    "pregunta": "¿Qué describe mejor una vulnerabilidad de inyección SQL?",
+    "opciones": [
+      "Introducir datos manipulados para alterar una consulta SQL de forma no prevista",
+      "Una técnica para aumentar el ancho de banda",
+      "Un método de cifrado de archivos",
+      "Una actualización automática del servidor"
+    ],
+    "correcta": 0,
+    "explicacion": "La inyección SQL puede ocurrir cuando una aplicación construye consultas con entradas no controladas. Las consultas parametrizadas son una defensa fundamental."
+  }
+]

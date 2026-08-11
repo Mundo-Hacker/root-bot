@@ -1,0 +1,9 @@
+{
+  "polls": {},
+  "votes": {},
+  "usedQuestionIds": [],
+  "schedule": {
+    "lastPublishedAt": null,
+    "nextPublicationAt": null
+  }
+}

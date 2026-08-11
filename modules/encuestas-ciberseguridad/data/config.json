@@ -1,0 +1,8 @@
+{
+  "channelId": null,
+  "automatic": false,
+  "intervalMinutes": 1440,
+  "durationMinutes": 60,
+  "category": "todas",
+  "difficulty": "todas"
+}
